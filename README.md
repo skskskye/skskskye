@@ -1,6 +1,6 @@
-# Hi, I'm Noah! 👋
+Hi, I'm Noah! 👋
 
-### Computer Science Student
+Computer Science Student
 ------------------------
 
 Hello!! I'm a Computer Science student at the University of Guelph, specializing in cybersecurity. I've always loved tinkering with things, and computers are just another outlet for that!
